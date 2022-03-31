@@ -1,0 +1,31 @@
+@import"./src/app/custom\ styles/variables.scss";
+@import"./src/app/custom\ styles/swiperDeck";
+@import"./mediaQueriesMixins";
+html {
+  scroll-behavior: smooth;
+}
+// @import 'swiper/scss';
+// @import 'swiper/scss/navigation';
+// @import 'swiper/scss/pagination';
+.box {
+    width: 100%;
+    height:100vh;
+    background-image:$EBRDbackgroundMain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden !important;
+    // &__main{
+    
+    //   width: 100%;
+    //   height:100%;
+    //   background-color: green;
+    //   position: absolute;
+    //   top: 130px;
+
+    // }
+    
+  
+    }
+ 

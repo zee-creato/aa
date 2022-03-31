@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import"../src/app/custom\ styles/reset.scss";
+@import"./src/app/custom\ styles/swiperDeck";
+@import 'swiper/scss';
+@import 'swiper/scss/pagination';
+@import "bootstrap/dist/css/bootstrap.css";
+// @import 'swiper/scss/navigation';
+
+.swiper-pagination-bullet{
+   
+
+    width:1vw;
+    height:1vw;
+  }
+i{
+    cursor: pointer;
+}
+

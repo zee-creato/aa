@@ -1,0 +1,46 @@
+.header{
+    width: 70%;
+    height: 5%;
+    position: absolute;
+    top: 30px;
+    right: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 0.9fr;
+    grid-template-rows: 1fr;
+    grid-gap: 20px;
+    &__div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: white;
+        border-radius: 0.5rem;
+        border: 2px solid green !important;
+        &__a{
+         width: 100%;
+         height: 100%;
+  
+          text-decoration: none;
+          color: rgb(20, 20, 178);
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          font-size: 1.4vw;
+          border-radius: 0.5rem;
+          
+        }
+        &.clock{
+
+      background-color: transparent;
+      border: none !important;
+
+         font-size: 1.7vw;
+         color: white;
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+    
+  
+        
+     }
+    }
+}

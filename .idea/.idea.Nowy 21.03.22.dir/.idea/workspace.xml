@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0ba17e2-f0f7-43a0-96ac-1010737d43b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/blinds/blinds.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/blinds/blinds.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/blinds/blinds.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/blinds/blinds.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/blinds/blinds.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/blinds/blinds.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/climate/climate.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/climate/climate.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/climate/climate.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/climate/climate.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/climate/climate.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/climate/climate.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/deck-room/deck-room.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/deck-room/deck-room.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/deck-room/deck-room.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/deck-room/deck-room.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/lights/lights.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/lights/lights.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/lights/lights.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/lights/lights.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/lights/lights.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/lights/lights.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/list-item/list-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/list-item/list-item.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/list-item/list-item.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/list-item/list-item.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/side-nav/side-nav.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/side-nav/side-nav.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/side-nav/side-nav.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/side-nav/side-nav.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/side-nav/side-nav.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/side-nav/side-nav.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/source-items/source-items.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/source-items/source-items.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/source-items/source-items.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/source-items/source-items.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/source-items/source-items.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/source-items/source-items.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/source-selection/source-selection.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/source-selection/source-selection.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/source-selection/source-selection.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/source-selection/source-selection.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/source-selection/source-selection.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/source-selection/source-selection.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/weather-bar/weather-bar.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/weather-bar/weather-bar.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/weather-bar/weather-bar.component.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/weather-bar/weather-bar.component.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/weather-bar/weather-bar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/weather-bar/weather-bar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/components/weather-bar/weather-bar.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/components/weather-bar/weather-bar.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/custom styles/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/custom styles/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/custom styles/_swiperDeck.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/custom styles/_swiperDeck.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/custom styles/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/custom styles/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/modal copy/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/modal copy/data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/modal copy/task.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/modal copy/task.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/app/t.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/app/t.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/package-lock.json" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26i0pIfcnYISdbIiy9kQZWmyXFI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Zbigniew.Kierpiec\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0ba17e2-f0f7-43a0-96ac-1010737d43b5" name="Changes" comment="" />
+      <created>1647891280955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647891280955</updated>
+      <workItem from="1647891284486" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
